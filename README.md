@@ -1,3 +1,10 @@
+# Additionaly
+There are some non working button in home page or main
+Just in case of routing they are there for example the about us page in the Home page the Mynotes contains the whole menu
+
+#NOte
+Due to end sem exams and not that proficiency and less handson using the Tailwind css There might be some less design in the frontend part and yes used the react redux to manage the state part
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
